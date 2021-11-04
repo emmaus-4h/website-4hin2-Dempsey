@@ -3,7 +3,7 @@
 html, body {
     height: 100%;
     padding: 0;
-    background-color: rgb(236, 236, 236);  
+    background-color: rgb(235, 235, 235);  
     
     color: #303030;
     font: Verdana, Arial, Sans-Serif;
@@ -33,7 +33,6 @@ footer {
     padding-bottom: 10px;
 }
 
-
 /* specifieke stijlen */
 
 img.zweefLinks {
@@ -51,7 +50,7 @@ a {
 }
 
 a:hover {
-    text-decoration: underline;
+    text-decoration: underline rgb(255, 96, 96);
 }
 
 
@@ -77,16 +76,14 @@ nav li a {
 }
 
 nav li a:hover {
-    background-color:#aaaaaa;
+    background-color:#9b9b9b;
 }
 
 nav li a.active {
     background-color: rgb(255, 96, 96);
 }
 
-Begin {
-  
-}
+
 
 
 
