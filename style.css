@@ -12,7 +12,7 @@ html, body {
 
 main {
     margin: 0 auto;
-    width: 700px;
+    width: 1440px;
     position: relative;
 }
 
@@ -37,10 +37,10 @@ footer {
 
 /* specifieke stijlen */
 
-img.zweefLinks {
+img.foto {
     float: right;
     width: 125px;
-    padding: 20px;
+    padding: 35px;
 }
 
 .smalltext {
@@ -64,6 +64,9 @@ nav ul {
     padding: 0%;
     background-color: #ffffff;
     overflow: hidden;
+    border-top: 10px inset transparent;
+   border-bottom: 10px inset transparent;
+   border-left: 20px solid rgb(140, 147, 150);
 }
 
 nav ul li {
@@ -75,7 +78,6 @@ nav li a {
     color: rgb(0, 0, 0);
     text-align: center;
     padding: 14px 16px;
-    text-decoration: none;
 }
 
 nav li a:hover {
