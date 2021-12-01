@@ -64,9 +64,6 @@ nav ul {
     padding: 0%;
     background-color: #ffffff;
     overflow: hidden;
-    border-top: 10px inset transparent;
-   border-bottom: 10px inset transparent;
-   border-left: 20px solid rgb(140, 147, 150);
 }
 
 nav ul li {
@@ -88,9 +85,18 @@ nav li a.active {
     background-color: rgb(255, 96, 96);
 }
 
- box-sizing: border-box;
- overflow: auto;
- margin: 0px;
+.EersteHoofdpaginaTekst {
+  box-sizing: border-box;
+  overflow: auto;
+  margin: 0px;
+  text-align: left;
+}
+
+div {
+  box-sizing: border-box;
+  overflow: auto;
+  margin: 0px;
+}
 
 
 
