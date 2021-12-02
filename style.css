@@ -85,13 +85,6 @@ nav li a.active {
     background-color: rgb(255, 96, 96);
 }
 
-.EersteHoofdpaginaTekst {
-  box-sizing: border-box;
-  overflow: auto;
-  margin: 0px;
-  text-align: left;
-}
-
 div {
   box-sizing: border-box;
   overflow: auto;
