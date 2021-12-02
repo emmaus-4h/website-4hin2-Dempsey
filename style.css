@@ -22,12 +22,6 @@ article {
 }
 
 
-header {
-    color: rgb(255, 96, 96);
-    text-align: center;
-}
-
-
 footer {
     text-align: center;
     padding-bottom: 10px;
@@ -85,11 +79,10 @@ nav li a.active {
     background-color: rgb(255, 96, 96);
 }
 
+---------------------------------------------------------------
+
 div {
   box-sizing: border-box;
   overflow: auto;
   margin: 0px;
 }
-
-
-
