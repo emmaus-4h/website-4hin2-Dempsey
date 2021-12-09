@@ -1,3 +1,10 @@
+* {
+  border: 2px white;
+  overflow: auto;
+  box-sizing: border-box;
+  margin: 0px;
+}
+
 /* Basislayout */
 
 html, body {
@@ -35,6 +42,7 @@ img.foto {
     float: right;
     width: 125px;
     padding: 35px;
+    border: greenyellow;
 }
 
 .smalltext {
@@ -77,12 +85,4 @@ nav li a:hover {
 
 nav li a.active {
     background-color: rgb(255, 96, 96);
-}
-
----------------------------------------------------------------
-
-div {
-  box-sizing: border-box;
-  overflow: auto;
-  margin: 0px;
 }
