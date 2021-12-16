@@ -18,7 +18,7 @@ html, body {
 
 main {
     margin: 0 auto;
-    width: 1440px;
+    width: 1900px;
     position: relative;
 }
 
@@ -27,11 +27,6 @@ article {
     text-align: justify;
 }
 
-
-footer {
-    text-align: center;
-    padding-bottom: 10px;
-}
 
 /* specifieke stijlen */
 
@@ -51,7 +46,7 @@ a {
 }
 
 a:hover {
-    text-decoration: underline rgb(255, 96, 96);
+    text-decoration: underline rgb(255, 255, 255);
 }
 
 
@@ -60,8 +55,9 @@ nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-color: #ffffff;
+    background-color: #424242;
     overflow: hidden;
+    height: 120px;
 }
 
 nav ul li {
@@ -70,28 +66,21 @@ nav ul li {
 
 nav li a {
     display: block;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
-nav li a:hover {
-    background-color:#9b9b9b;
-}
 
 nav li a.active {
-    background-color: rgb(255, 96, 96);
+    text-decoration: underline white
 }
 
 .MijnInfo {
-  width: 1440px;
+  width: 1900px;
 }
 
-
-.Belangrijk {
-  width: 1440px;
-}
 
 .BovenRechts {
   display: block;
@@ -99,4 +88,8 @@ nav li a.active {
   margin-right: auto;
   width: 200px;
 
+}
+
+.Balk {
+  float: right
 }
