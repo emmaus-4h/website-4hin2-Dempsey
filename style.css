@@ -18,7 +18,7 @@ html, body {
 
 main {
     margin: 0 auto;
-    width: 1900px;
+    width: 1440px;
     position: relative;
 }
 
@@ -55,7 +55,7 @@ nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-color: #424242;
+    background-color: #222222;
     overflow: hidden;
     height: 120px;
 }
@@ -78,7 +78,7 @@ nav li a.active {
 }
 
 .MijnInfo {
-  width: 1900px;
+  width: 1440px;
 }
 
 
@@ -91,5 +91,9 @@ nav li a.active {
 }
 
 .Balk {
-  float: right
+  float: right;
+}
+
+.LogoNav {
+  width: 120px;
 }
