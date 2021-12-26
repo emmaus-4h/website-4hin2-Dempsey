@@ -142,3 +142,23 @@ nav li a.active {
 .Informatie {
   overflow: hidden;
 }
+
+.Releases {
+    width: 250px;
+    margin-right: 70px;
+    overflow: hidden;
+    float: left;
+}
+
+#Thumbnail {
+  width: 250px;
+  overflow: hidden;
+}
+
+.ArtiestTekst1 {
+  width: 1000px;
+}
+
+.ArtiestTekst2 {
+  width: 1000px;
+}
