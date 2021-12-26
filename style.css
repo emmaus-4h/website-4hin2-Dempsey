@@ -162,3 +162,15 @@ nav li a.active {
 .ArtiestTekst2 {
   width: 1000px;
 }
+
+.Socials {
+    width: 150px;
+    margin: 20px;
+    overflow: hidden;
+    float: left;
+}
+
+#Company {
+  width: 150px;
+  overflow: hidden;
+}
